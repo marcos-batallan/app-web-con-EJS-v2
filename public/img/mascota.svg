@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400" role="img">
+  <title>Ilustración de un perro</title>
+  <!-- fondo -->
+  <rect width="400" height="400" fill="#f7f1e8"/>
+  <circle cx="200" cy="200" r="150" fill="#f4c95d" opacity="0.35"/>
+  <!-- orejas -->
+  <ellipse cx="128" cy="170" rx="30" ry="62" fill="#582815" transform="rotate(14 128 170)"/>
+  <ellipse cx="272" cy="170" rx="30" ry="62" fill="#582815" transform="rotate(-14 272 170)"/>
+  <!-- cabeza -->
+  <ellipse cx="200" cy="205" rx="82" ry="76" fill="#9b5032"/>
+  <!-- hocico -->
+  <ellipse cx="200" cy="237" rx="44" ry="34" fill="#f7f1e8"/>
+  <!-- ojos -->
+  <circle cx="170" cy="190" r="9" fill="#2f2924"/>
+  <circle cx="230" cy="190" r="9" fill="#2f2924"/>
+  <circle cx="173" cy="187" r="3" fill="#ffffff"/>
+  <circle cx="233" cy="187" r="3" fill="#ffffff"/>
+  <!-- nariz y boca -->
+  <ellipse cx="200" cy="222" rx="14" ry="10" fill="#2f2924"/>
+  <path d="M200 232 V246 M200 246 Q186 258 174 248 M200 246 Q214 258 226 248"
+        fill="none" stroke="#2f2924" stroke-width="4" stroke-linecap="round"/>
+  <!-- lengua -->
+  <path d="M192 254 Q200 276 208 254 Z" fill="#e58f8f"/>
+</svg>
